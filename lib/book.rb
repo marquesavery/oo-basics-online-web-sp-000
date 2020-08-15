@@ -12,6 +12,10 @@ class Book
     @author = author
   end
 
+  def author
+    @author
+  end
+
   def genre=(genre)
     @genre = genre
   end
