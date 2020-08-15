@@ -3,4 +3,7 @@ class Book
 
   end
 
+  def title
+  end
+
 end
